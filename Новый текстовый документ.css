@@ -1,0 +1,61 @@
+body {
+  padding: 0 30px;
+  font-size: 16px;
+  line-height: 26px;
+  font-family: "Arial", sans-serif;
+  color: white;
+ background-image: url(img/img3.jpg);
+background-color:  lightgrey;
+  
+  }
+
+h1 {
+  font-size: 36px;
+  line-height: normal;
+  color: white;
+  text-align: center;
+  font-style: cursive;
+}
+
+h2 {
+  font-size: 20px;
+  line-height: normal;
+  text-align: center;
+  font-style: cursive;
+}
+.skills dd {
+  margin: 0;
+  margin-bottom: 10px;
+
+  background-color: #e8e8e8;
+  }
+  .skills-level {
+  font-size: 12px;
+  text-align: left;
+  width: 600px;
+  color: #ffffff;
+  background-color: #4470c4;
+  }
+  .skills-level-ok {
+  	width:900px;
+  	background-color: #47bb52;
+
+}
+.skills-level-skills {
+width:300px;
+background-color: red;
+
+
+}
+h3 {
+  font-size: 20px;
+  line-height: normal;
+  text-align: center;
+ font-style: cursive;
+  color: white;
+
+}
+
+
+	
+
